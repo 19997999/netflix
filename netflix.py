@@ -17,7 +17,7 @@ try:
 	print '''%s
    _  __    __  ______
   / |/ /__ / /_/ _/ (_)_ __    %sCoded by D4RKSH4D0WS%s
- /    / -_) __/ _/ / /\ \ /    %sNetfilx Account Checker%s
+ /    / -_) __/ _/ / /\ \ /    %sNetflix Account Checker%s
 /_/|_/\__/\__/_//_/_//_\_\     %swa.me/628996604524
 
 '''%(C1,W0,C1,W0,C1,W0)
